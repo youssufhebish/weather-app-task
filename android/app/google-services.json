@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973217691423",
+    "project_id": "weather-ae443",
+    "storage_bucket": "weather-ae443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973217691423:android:fed32be8c3c033b472222a",
+        "android_client_info": {
+          "package_name": "com.youssufhebish.mini_weather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973217691423-o84hvqom8m1srignnj9nt267hpbqhak2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3GIPkmq-nCZ4-PxT_Fv5dBzyes-skb_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973217691423-o84hvqom8m1srignnj9nt267hpbqhak2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
